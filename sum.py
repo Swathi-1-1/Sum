@@ -1,3 +1,5 @@
-a = int(input())
-b = int(input())
-print(a+b)
+a = input()
+b = input()
+sum_a = int(a)
+sum_b = int(b)
+print(sum_a+sum_b)

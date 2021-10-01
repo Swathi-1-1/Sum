@@ -1,0 +1,5 @@
+create table numbers(number1 int,number2 int);
+insert into numbers values(1,2);
+select (number1+number2) from numbers;
+
+/*Output: 3*/

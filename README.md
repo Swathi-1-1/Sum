@@ -3,6 +3,8 @@
 ---
 ## 🛠 Skills
 - C programs
+- Java Script programs
+- Python programs
 
 ---
 

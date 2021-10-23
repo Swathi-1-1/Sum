@@ -1,10 +1,17 @@
-# Sum-of-Two-Numbers
+
+<div>
+<p align = 'center'>
+ <img src = "https://img.shields.io/badge/Sum_of_Two_Numbers-4B275F?style=round" width = '30%'/>
+</p>
+</div>
 
 ---
 ## 🛠 Skills
-- C programs
-- Java Script programs
-- Python programs
+- C Programs
+- Python Programs
+- Java Programs
+- Java Script Programs
+- C++ p+Programs
 
 ---
 
